@@ -1,0 +1,11 @@
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequestLogic\obj\Debug\ClientRequestLogic.csproj.CoreCompileInputs.cache
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequestLogic\bin\Debug\ClientRequestLogic.dll
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequestLogic\bin\Debug\ClientRequestLogic.pdb
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequestLogic\bin\Debug\Bogus.dll
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequestLogic\bin\Debug\EPPlus.dll
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequestLogic\bin\Debug\Bogus.xml
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequestLogic\bin\Debug\EPPlus.xml
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequestLogic\obj\Debug\ClientRequestLogic.csproj.CopyComplete
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequestLogic\obj\Debug\ClientRequestLogic.dll
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequestLogic\obj\Debug\ClientRequestLogic.pdb
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequestLogic\obj\Debug\ClientRequestLogic.csprojResolveAssemblyReference.cache

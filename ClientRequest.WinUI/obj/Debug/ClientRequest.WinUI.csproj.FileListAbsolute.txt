@@ -1,0 +1,17 @@
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\bin\Debug\ClientRequest.WinUI.exe.config
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\bin\Debug\ClientRequest.WinUI.exe
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\bin\Debug\ClientRequest.WinUI.pdb
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\obj\Debug\ClientRequest.WinUI.csprojResolveAssemblyReference.cache
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\obj\Debug\ClientRequest.WinUI.Form1.resources
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\obj\Debug\ClientRequest.WinUI.Properties.Resources.resources
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\obj\Debug\ClientRequest.WinUI.csproj.GenerateResource.cache
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\obj\Debug\ClientRequest.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\obj\Debug\ClientRequest.WinUI.exe
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\obj\Debug\ClientRequest.WinUI.pdb
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\bin\Debug\ClientRequestLogic.dll
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\bin\Debug\Bogus.dll
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\bin\Debug\EPPlus.dll
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\bin\Debug\ClientRequestLogic.pdb
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\bin\Debug\Bogus.xml
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\bin\Debug\EPPlus.xml
+C:\Users\Artyr\Desktop\ClientsRequest1_ShapovalovArtyr\ClientRequestLogic\ClientRequest.WinUI\obj\Debug\ClientRequest.WinUI.csproj.CopyComplete
